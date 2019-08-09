@@ -1,0 +1,2 @@
+Este Archivo fue generado en git
+Del Clone
